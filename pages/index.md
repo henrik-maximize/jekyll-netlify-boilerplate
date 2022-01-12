@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Väkommen
+title: Välkommen
 permalink: /
 section: home
 intro_paragraph: >
